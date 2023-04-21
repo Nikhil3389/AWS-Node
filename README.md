@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+https://github.com/Nikhil3389/AWS-Node.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
